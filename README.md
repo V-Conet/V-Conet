@@ -1,4 +1,4 @@
 Hi, I’m V-Conet :wave:
 
-- :zap: Domain https://vconet.top/ (Noting.)
 - :point_right: Leanring Java
+- :man_student: High School student
